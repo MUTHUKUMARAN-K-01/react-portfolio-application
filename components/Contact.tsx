@@ -79,12 +79,12 @@ export default function Contact() {
                 <div>
                   <p className="text-sm text-gray-500">LinkedIn</p>
                   <a
-                    href="https://linkedin.com/in/muthukumaran-k-"
+                    href="https://linkedin.com/in/muthukumaran-k"
                     target="_blank"
                     rel="noreferrer"
                     className="text-lg font-medium text-indigo-600 hover:text-indigo-800"
                   >
-                    linkedin.com/in/muthukumaran-k-
+                    linkedin.com/in/muthukumaran-k
                   </a>
                 </div>
               </div>
