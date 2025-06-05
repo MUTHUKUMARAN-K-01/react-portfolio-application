@@ -49,7 +49,7 @@ function Footer() {
                 <Github className="h-6 w-6" />
               </a>
               <a
-                href="https://linkedin.com/in/muthukumaran-k"
+                href="https://linkedin.com/in/muthukumaran-k-"
                 target="_blank"
                 rel="noreferrer"
                 className="text-white/80 hover:text-teal-200 transition-colors duration-200"
